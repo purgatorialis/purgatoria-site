@@ -1,0 +1,205 @@
+{
+  "posts": [
+    {
+      "title": "TA Meshtastic Çevrimi Nedir?",
+      "link": "https://blog.purgatoria.tr/2026/03/meshtastic-cevrim.html",
+      "pubDate": "Fri, 13 Mar 2026 20:43:00 +0000",
+      "summary": "Bu yazımızda Meshtastic Türkiye Topluluğu olarak haftalık çevrimimizin n'asıl icra edileceğini ele alıyoruz sevgili dostlarımız. {getToc} $title={İçindekiler Tablosu} Meshtastic nedir? Mesaj, konum bi…",
+      "author": "noreply@blogger.com (Kayra TA2SLC)",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFm8paMEWUsLNFIQydmJnhlaGCUv-cbUcslC27J85ZQalSMDBtrpVXNClprNGhjQrUbzLmMl0IAez3eJcEGSrcCV2nO1huHC16y5KsPaGfgL1BD0NfwVPrQnMzf3YAopzjaVHTMNFiUDFnHUGujEWNVn4NCmmftUnTAw-O2nNlR9S-YA9H2Ls2gNREHtA/w640-h360/ta_mesh_cevrim.png"
+    },
+    {
+      "title": "Purgatoria AREDN Standardizasyonu",
+      "link": "https://blog.purgatoria.tr/2026/02/aredn-standart.html",
+      "pubDate": "Sat, 28 Feb 2026 19:22:00 +0000",
+      "summary": "Bu yazımızda sevgili dostlarımız AREDN düğümleriniz için bir isimlendirme sistemi tavsiyesi ile sizlerle birlikteyiz. {getToc} $title={İçindekiler Tablosu} İsimlendirme standardı nedir? İsimlendirme s…",
+      "author": "noreply@blogger.com (Kayra TA2SLC)",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUjIFiKUEi-887YCjHJSfWkLHMfnVEViZKqFJ6Q7EH9EgQhSz7xQyRel1N22JL84opRgZhFclYA5km_RN6kBTwYgVfgUA2CcHV3UGasl-Y_vTojWSp2HgiAbDr5MCxUpLPXMO0sfIyaa71SbQMgZIhDzwtqJNcw875f_WjnCFApx0GwAWhU-_DMmPFL8c/w640-h360/aredn_standart.png"
+    },
+    {
+      "title": "AREDN İçin Cihaz Seçim Rehberi",
+      "link": "https://blog.purgatoria.tr/2026/02/aredn-cihaz-secimi.html",
+      "pubDate": "Sat, 28 Feb 2026 19:20:00 +0000",
+      "summary": "Bu yazımızda sevgili dostlar çok yüzeysel ayrıntılarıyla AREDN firmware'ini yükleyip kullanabileceğiniz ve Türkiye'de satılan cihazları inceleyeceğiz. içindekiler AREDN'da nelere ihtiyacımız var? aaa …",
+      "author": "noreply@blogger.com (Kayra TA2SLC)",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5ctiJFTSgeCP8eFt0u-_7e8xTnMfxoCJDT2v8P1aPNIBB5s6-ZhnUTC0M1Yb6905rL9FVIfrLaxzy9ufNF4qEjsMNgj1wMLSVbhrYhmx8-oNxDfnHgfETNt1Vx-Q77g5pRHrsS7glH-IOBx4kMWG8oORidbYyjbD7t_QcfX7mS8Kg7LuZNHYF-pBY6s8/w640-h360/herkes_i%C3%A7in_aredn%20(2).png"
+    },
+    {
+      "title": "AREDN Destekli Cihazlar Listesi",
+      "link": "https://blog.purgatoria.tr/2026/02/aredn-destekli-cihazlar.html",
+      "pubDate": "Sat, 28 Feb 2026 19:17:00 +0000",
+      "summary": "açıklama içindekiler AREDN Destekli Cihazlar aaa VM aaa Hipervizör Mimari RAM ROM Durum Firmware Vmware ESXi x86 64mb+ kararlı destekli(5) Proxmox pve x86 64mb+ kararlı destekli(5) Unraid x86 64mb+ de…",
+      "author": "noreply@blogger.com (Kayra TA2SLC)",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC593K5UuxZR_uUCnXwMt37H8-l2XWSp3lxu-hLiVIojG0H9OKxCQMdrkoP-_6x_aO8uWsYmQQEdvhmnXBVeLqUhgOZz9_Cl6H9fmKeucXA_BL4bEUoyQuaYvzEX59jhEjsiWl3gdCWfM2Bw65LILabFPZHTqebGf3eH4KBbRHwtUhXqxngH6Ou_Q1gZU/w640-h360/AREDN_Destekli_Cihazlar_Listesi.png"
+    },
+    {
+      "title": "Purgatoria AREDN WireGuard VPN Sunucusu",
+      "link": "https://blog.purgatoria.tr/2026/02/aredn-vpn-sunucusu.html",
+      "pubDate": "Sat, 28 Feb 2026 18:48:00 +0000",
+      "summary": "açıklama içindekiler **buraya yazı gelecek** AAA aaa…",
+      "author": "noreply@blogger.com (Kayra TA2SLC)",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQDl5OJt_4qrz_-PfiE0pFUzgXKoNUEhELOJnMU1mSH58A7mdw3G9LApNIF6jVuylqEiib2NINp-lwkVg6TREXhVmfWpcQu7HatoynQICi5HtWQjwcLrclvG0H2nFzCgK3vgd7FA86PXktzxGjrXFWJxM-U5wEaR1zYHeyTWZdcuMHiawAcxc1TTfj9AE/w640-h360/Purgatoria_AREDN_WireGuard_VPN_Sunucusu.png"
+    },
+    {
+      "title": "AREDN Düğüm Konfigürasyonu",
+      "link": "https://blog.purgatoria.tr/2026/02/aredn-konfigurasyon.html",
+      "pubDate": "Sat, 28 Feb 2026 18:20:00 +0000",
+      "summary": "açıklama içindekiler **buraya yazı gelecek** AAA aaa…",
+      "author": "noreply@blogger.com (Kayra TA2SLC)",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwRLqjiy-295ltnCXyTtAMzdT0SwA-X92zzXw2g1brey3qurZANvq7sax_jMYsPr9PIliVGvmiEPScZhRKNGWB5aFVB-PhuWyiWTM74peG83r4IbmLFeEdrEx4EXsw86kIj-3BSp6i46sBDegnxSUuHvQj5IbQBURjrc_is5laz_4d4X7PJw-zMveQ5lw/w640-h360/AREDN_D%C3%BC%C4%9F%C3%BCm_Konfig%C3%BCrasyonu.png"
+    },
+    {
+      "title": "AREDN Nedir?",
+      "link": "https://blog.purgatoria.tr/2026/02/aredn-nedir.html",
+      "pubDate": "Sat, 28 Feb 2026 16:51:00 +0000",
+      "summary": "Bildiğiniz üzere Meshtastic'i hep birlikte bir noktaya getirdik artık sevgili dostlarımız, devam eden süreçte daha kompleks mesh yapılarını öğrenme ve Meshtastic'i bunlarla zenginleştirme zamanımız ge…",
+      "author": "noreply@blogger.com (Kayra TA2SLC)",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4avLwaF4LAHWS5iOln3_C7EVytyOUeLoupCmbzGakEjhdnHWTluonp9KxleUaz265GNspcaArM1HXDCZBoYnI4oAGTDyE69gXlr0a6p9DB1AtdaL-lR5yVrrIVx9W361KrOkkEX_cDPHV82jDKCQD4iTVFFC6160995bJ_1agU821H9Oj_eliyC9_8TM/w640-h360/AREDN_Nedir.png"
+    },
+    {
+      "title": "AREDN Dahili Numara Tahsisi",
+      "link": "https://blog.purgatoria.tr/2025/11/aredn-sip-tahsis.html",
+      "pubDate": "Wed, 12 Nov 2025 05:42:00 +0000",
+      "summary": "Bu yazımızda AREDN SIP Sunucusu'nda dahili numara tahsisini ve blok tasnifini ele alıyoruz sevgili dostlarımız. {getToc} $title={İçindekiler Tablosu} Dahili Numara Nedir? Dahili numaralar, AREDN ağınd…",
+      "author": "noreply@blogger.com (Kayra TA2SLC)",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc0d_ZMrW7PnkqUo7ZrbxWgVxG3_u4AHLu1miD59b6JJI8JsmXuz5B3TBgmh0BEFkXo2PVu3U_lqJNmFMFX3cd_-Sd4lv9E1Tr8Y_tVSC7nLx_JLhYY79Qw4cvZAEruW8XmZxsuPYcpogA_aZMta3imBgaTFB8OMz-vC3O-MyAxjp-V2WDDrWYRyJc0ok/w640-h360/AREDN_SIP_Sunucusu_Numara_Tahsisi.png"
+    },
+    {
+      "title": "Cudy TR1200 AREDN Kurulumu",
+      "link": "https://blog.purgatoria.tr/2025/11/cudy-tr1200-aredn-firmware.html",
+      "pubDate": "Fri, 07 Nov 2025 07:24:00 +0000",
+      "summary": "Bu yazımızda sevgili dostlarımız Cudy TR1200 cihazına AREDN firmware'inin kurulumunu ele alıyoruz. {getToc} $title={İçindekiler Tablosu} Cudy TR1200 Özellikleri Lorem Ipsum... Cudy TR1200 Kutu Açılışı…",
+      "author": "noreply@blogger.com (Kayra TA2SLC)",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7kIKH8AG9VfPvwe3zPgAJqz1Kcm8BzrVdCS4j2aHaH74Fz_vlBXGCOmCeN-h2dCFkoAUNRY1wwsZ-Tr648IGuYS4r-VhUpfYR1puXeLK48My4CH-Uk1s6Yjf7E1BnF3aUqOVpqeL5wJPfhwUDv-pLMPFuCJwJ4NQCrKTavIUZLTA_FOLj8V7Ess8HO70/w640-h360/Yeni%20Proje%20(93).png"
+    },
+    {
+      "title": "Quansheng TK-11, TK-11(5) ve TK-11(8)",
+      "link": "https://blog.purgatoria.tr/2025/08/quansheng-tk11-rehberi.html",
+      "pubDate": "Sat, 02 Aug 2025 13:17:00 +0000",
+      "summary": "Bildiğiniz üzere Quansheng, UV-K5(8) cihazının devamı olarak Taiko Kong serisi ile TK-11, TK-11(5) ve TK-11(8) adında birbirine benzer özelliklerde üç farklı cihaz piyasaya sürdü. Bu yazımızda hem TK-…",
+      "author": "noreply@blogger.com (Kayra TA2SLC)",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKHoHXzO4W4qpJ6OQre0BJCQSxn6uG0fayqBUUH7_rNs_Cmfy_8dwrZCczrma4wm0a4xjh7rA5m4SrzZ1pikzPHTIIQehl6Jywfs6F4KUsULnMUbwP7xfVQtjwEmj-wgREs3-sY6ufDDubusosQ0TsquJMulWhVCnIfujgSadiM4G4hpcgQdGqg5_qLds/w640-h360/Blogger_Quansheng_TK11_farklari.png"
+    },
+    {
+      "title": "Quansheng TK-11(8)",
+      "link": "https://blog.purgatoria.tr/2025/08/quansheng-tk-11-8.html",
+      "pubDate": "Sat, 02 Aug 2025 11:19:00 +0000",
+      "summary": "Bu yazımızda Quansheng firmasının UV-K5(8)'den sonra çıkardığı yeni cihazı olan Quansheng Taiko Kong serisinin TK-11(8) modeli cihazının ön incelemesini yapıyor ve tüm özelliklerini detaylıca sıralaya…",
+      "author": "noreply@blogger.com (Kayra TA2SLC)",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpe06WO0h3Yh3qhToMkILb25Qinv2rpG0LL72XM4ub_PWNLqOb88fXni8gJ5934bs3Mnoasjjo79BCorPBi8hQq_BMTnyaJfEv4LanhntzHD8Chlr65GGuf150cLqh3eBr-pEXMJKz5J1LZBu82JsbEAKFJmsawK9foZwTs3aqCl-g4gxWzpVkTtt1cF4/w640-h360/Blogger_Quansheng_TK11(8).png"
+    },
+    {
+      "title": "Quansheng TK-11(5)",
+      "link": "https://blog.purgatoria.tr/2025/08/quansheng-tk-11-5.html",
+      "pubDate": "Sat, 02 Aug 2025 11:18:00 +0000",
+      "summary": "Bu yazımızda Quansheng firmasının UV-K5(8)'den sonra çıkardığı yeni cihazı olan Quansheng Taiko Kong serisinin TK-11(8) modeli cihazının ön incelemesini yapıyor ve tüm özelliklerini detaylıca sıralaya…",
+      "author": "noreply@blogger.com (Kayra TA2SLC)",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNl4bFhRlNA6lqsL7gMru2Hq9kepqMGVyunpRTBayygCdW7pd-vEbtTkhG_atiWhYkaWqlzJS2Z7RtBjbzMHwRrq9H9aAyqvP-EGTII_l9egL8sIJmEFkluEIWOLB6k2PaO_B35OXkuS-C9fu1z0kl8SL-zZt7tbYC-fJut-oB9WaiBQz0S3QIW892h0Y/w640-h360/Blogger_Quansheng_TK11(5).png"
+    },
+    {
+      "title": "Quansheng TK-11",
+      "link": "https://blog.purgatoria.tr/2025/08/quansheng-tk-11.html",
+      "pubDate": "Sat, 02 Aug 2025 11:17:00 +0000",
+      "summary": "Bu yazımızda Quansheng firmasının UV-K5(8)'den sonra çıkardığı yeni cihazı olan Quansheng Taiko Kong serisinin TK-11(8) modeli cihazının ön incelemesini yapıyor ve tüm özelliklerini detaylıca sıralaya…",
+      "author": "noreply@blogger.com (Kayra TA2SLC)",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgt9OxHEmLpqAaYGXJQfkrV-VwjG-O0Zo4UIBR4fvFcUNTipHPa4EFU2OijlXO4AOV1rUk5Bo-LbCBfxD35F4RLjLqWQSbDtlOjO16XYdMPuoHxbbq7JDPPczqfWTWGBF3S5m9SL4TaZXlNSjSDPFVKHFIqLESTvKh8HyAyXsFdaFFSu4m-KFI57GUWbDY/w640-h360/Blogger_Quansheng_TK11.png"
+    },
+    {
+      "title": "CB Ülke Kodları",
+      "link": "https://blog.purgatoria.tr/2025/08/cb-ulke-kodlari.html",
+      "pubDate": "Fri, 01 Aug 2025 12:58:00 +0000",
+      "summary": "Bu yazımızda CB (Citizen Band), yani 27MHz Halk Bandı'ndaki ülke ön eklerini sizler için listeledik. No Ülke/Bölge 1 İtalya 2 Amerika Birleşik Devletleri 3 Brezilya 4 Arjantin 5 Venezuela 6 Kolombiya …",
+      "author": "noreply@blogger.com (Kayra TA2SLC)",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYDTLiTI-zB4xC3xEu7ouckSMpnvIzxmPOTZZ_LqQB5vis1mimklSXbDGU_2zm0O-jDg4l9xnQjOb1Hq0lMHnl84M8soLCDeW1jsY0q_fD7wcTtFmBjyWHsNrZS-Eo3TAgi9Rov-utIGbW_1F4OWOkPLcSpGPYutDMgalHIppkbOC6PY2PjzFzcZcTBfY/w640-h360/Blogger_CB_%C3%9Clke_Kodlar%C4%B1.png"
+    },
+    {
+      "title": "SSTV Test Sinyalleri",
+      "link": "https://blog.purgatoria.tr/2025/07/sstv-test-sinyalleri.html",
+      "pubDate": "Sat, 19 Jul 2025 21:18:00 +0000",
+      "summary": "Bu yazımızda sizler için var olan hemen hemen tüm SSTV formatları için oluşturduğumuz test sinyallerini sizler için derledik. Aşağıdaki SSTV test sinyalleri ile ISS SSTV etkinliğine katılmadan önce is…",
+      "author": "noreply@blogger.com (Kayra TA2SLC)",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEUsAFLYfncGiwsL42rss2ZFCd32aMiuGneqYNu1deUeLqoK_KEovOJU9_jvYuu5hz0jaSRO6_32u6CLkGeWyLiwSowuYmRRz2uce8S10CesZG2BcrBkM6KW9VT3He_U8k-zjxq7jUIdINwRsVPrYdNAgEyZbJqJ_1FuO5iI9K9hzn9U9Cyhax45BzeT4/w640-h360/Blogger_SSTV_Test_Sinyalleri.png"
+    },
+    {
+      "title": "APCO 10 Kodları",
+      "link": "https://blog.purgatoria.tr/2025/07/apco-10-kodlari.html",
+      "pubDate": "Thu, 10 Jul 2025 17:00:00 +0000",
+      "summary": "Bu yazımızda APCO 10 veya 10 Kodları olarak da bilinen günümüzde CB kitlesi tarafından umumiyetle kullanılmakta olan eski Amerikan Polis kodlarını inceleyeceğiz. Türkiye'de hiç kullanılmamış olsa dahi…",
+      "author": "noreply@blogger.com (Kayra TA2SLC)",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnQZKXkSzCqaa7wwPMvkgaVFy2MiUE_L4KTQHFQssjUu0iz0ztjYCMQ7UHDJUdNVYwtVthcCoCkhtxKc5NsbHij1mcuo3Xc3_piIvm4uHtuEYbyrZhak_7sJLuyGzLWusOyazNTpLwVheiWIxJggxnIyKz4DHNdAvvdr9wrnGWOuOM42C29GVetmUbc9k/w640-h360/Blogger_APCO_10.png"
+    },
+    {
+      "title": "Mors Kısaltmaları",
+      "link": "https://blog.purgatoria.tr/2025/06/mors-kisaltmalari.html",
+      "pubDate": "Sun, 29 Jun 2025 04:34:00 +0000",
+      "summary": "Bu yazımızda sevgili dostlarımız, CW yani Mors iletişiminde sıklıkla kullanılmakta olan Mors Kodu Kısaltmalarının karşılıklarını inceleyeceğiz. Mors Kısaltmaları Nedir? CW (Continous Wave) haberleşmes…",
+      "author": "noreply@blogger.com (Kayra TA2SLC)",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn9UjGor2GDHQ_tGdfOti3i_sRiz_OnpRIesm-4tN2B-ExkWVZAd8sLgiLa0h4kjqj32LDKAcsnWl63ru89UWcOadH-1nzijVpr0yXzCFyFjGNOGep4UqmYjdZVy8qg2ZN3i5YH5_RMmD24iPxntyzMbsRIsZOF_IjmmZYoenXWlsdyFrt5jDDIH_dEnU/w640-h360/Blogger_Mors_Kodu_K%C4%B1saltmalar%C4%B1.png"
+    },
+    {
+      "title": "Q Kodları",
+      "link": "https://blog.purgatoria.tr/2025/06/q-kodlari.html",
+      "pubDate": "Sun, 29 Jun 2025 03:38:00 +0000",
+      "summary": "Bu yazımızda sevgili dostlarımız, Amatör Telsiz haberleşmesi için çok önemli hususlardan ve umumiyetle kullanılan bir kısaltma sistemi olan Q Kodlarından bahsedeceğiz, ayrıntılı bir şekilde inceleyece…",
+      "author": "noreply@blogger.com (Kayra TA2SLC)",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlB6mn7IpdLv3puCbEafKEHz2Z3l4cBk36zMYsIbgRohvoM6hm8UNAk5AQMsdKH66TeW_kMukUFR4VTMfYPqV7tTh_M0hOxoH8vRr4JTup4YNGLG7NstXWeeMdoyw0sJAD2AKDAgahyphenhyphenPPXDjhAA5bkaG-CLZ1kUy0DbHT39TJ4lJ0vFiUmt2DmRPItGA8/w640-h360/Blogger_Q_Kodlar%C4%B1.png"
+    },
+    {
+      "title": "NATO Uluslararası Fonetik Alfabesi",
+      "link": "https://blog.purgatoria.tr/2025/06/nato-uluslararasi-fonetik-alfabesi.html",
+      "pubDate": "Sat, 28 Jun 2025 18:10:00 +0000",
+      "summary": "Bu yazımızda NATO Uluslararası Fonetik Alfabesi'ni çeşitli eğlenceli fotoğraflar ile aklınızda kalacak şekilde sıraladık. Bunun yanında A4 boyutunda .pdf versiyonu da sayfanın altından indirebilir ve …",
+      "author": "noreply@blogger.com (Kayra TA2SLC)",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxV7VKTAGYKUdBGQsPOdl-3Mj-iTxtz9L7hd2AKWpPX_dGWHoo188Ba4LkJ6yAdiESA2FaF9dwEB1YNaSAeOrWfAFGW84jXIVx8MV0zZjHilNkBMkmrAhGeQxxm41PQf6UH5sCRBiUsj4Q0wg7H5r1QUq7tfnFRPx0WFC-g7beLnZloGv-yOQpjSQ28ck/w640-h360/Blogger_NATO_Fonetik_Alfabesi.png"
+    },
+    {
+      "title": "Türkiye Milli Fonetik Alfabesi",
+      "link": "https://blog.purgatoria.tr/2025/06/turkiye-milli-fonetik-alfabesi.html",
+      "pubDate": "Sat, 28 Jun 2025 17:14:00 +0000",
+      "summary": "Bu yazımızda sevgili dostlarımız, sizlerle birlikte ülkemizde kullanılmakta olan Türkiye Milli Fonetik Alfabesi tablosunu sizlerle paylaşıyoruz. Amatör Telsizcilik Sınavı haricinde kullanımda pek karş…",
+      "author": "noreply@blogger.com (Kayra TA2SLC)",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5JhKgfydR5gN4HnY8Y5PR5uelyOauwv83bDlMz5NpKGALRlMEr0sTz7CUdroXsfvZHkDKxBdxWKrgeuEX2ezIQq4wzc_tgO_1C-xzo_n0LtKPMY-THXWIAJbOBaV67T1UnfjLiRduzajkr6PGV20bsF_ABMDyScvsVwuBandz4FqfOc2utQJveBV1zOI/w640-h360/Blogger_T%C3%BCrkiye_Fonetik_Alfabesi.png"
+    },
+    {
+      "title": "Western Union 92 Kodları",
+      "link": "https://blog.purgatoria.tr/2025/06/western-union-92-kodlari.html",
+      "pubDate": "Sat, 28 Jun 2025 17:09:00 +0000",
+      "summary": "Hiç 73, 88 ve 99 gibi kodların ne anlama geldiğini ve nereden geldiğini düşündünüz mü? Bu yazımızda sevgili dostlarımız, sizlerle birlikte bugün dahi CW yani Mors haberleşmesinde ve bunun ötesinde Ama…",
+      "author": "noreply@blogger.com (Kayra TA2SLC)",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPrbcofoU8X14EXuFqCgiHE3HV78hapJ1LKtDkwYZvPBaT9wUaO_tKDNgblTrWxe6rcVEXt0kMk1DicSWxi2V6ZqSsRMSmHUgSUtJdKsHtER-JVW8xdjQFpaPF9G-sbpf3JMXMcBiDREOr9-rA7E0k461nO2R6AaM1d5jywCld3LjCRMHQpQyZxHkS36M/w640-h360/Blogger_WU92.png"
+    },
+    {
+      "title": "TA Mesh Contest",
+      "link": "https://blog.purgatoria.tr/2025/06/ta-mesh-contest.html",
+      "pubDate": "Fri, 27 Jun 2025 19:28:00 +0000",
+      "summary": "Bu yazımızda Meshtastic Türkiye Topluluğu tarafından düzenlenecek olan TA Mesh Contest etkinliğinin ne olduğunu ve TA VHF UHF Contest ile olan ilişkisini inceledik. {getToc} $title={İçindekiler Tablos…",
+      "author": "noreply@blogger.com (Kayra TA2SLC)",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhux0V3whq7jGpxNKjs9XqeSjpM5D2T1EInmdnZ3ItOXS2eyTjpt2yPTeLZWzkYW3U9rtnV3Ev6zsxeFrE29KMILtuuLjJKP0x2hqlaIgBbpyl6m5CwqCao9UG1v-TwMNF12-YNYXULXBnDe4OCzZ0IpSiaQomlQPaQgM8v918F_5zWTDkHDZNzZwObXvc/w640-h360/Blogger_TA_Mesh_Contest%20(1).png"
+    },
+    {
+      "title": "TA VHF UHF Contest Nedir?",
+      "link": "https://blog.purgatoria.tr/2025/06/ta-vhf-uhf-contest-nedir.html",
+      "pubDate": "Tue, 24 Jun 2025 00:05:00 +0000",
+      "summary": "Bu yazımızda sevgili dostlarımız, ülkemizin en önemli -esasında tek- amatör telsizcilik yarışması olan TA VHF UHF Contest hakkında en çok sorulan soruları derledik ve sizler için cevapladık. Gayet tab…",
+      "author": "noreply@blogger.com (Kayra TA2SLC)",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR4o1WyFyXijMpfDnWaOy_BfP6Sd30zWlXsaTEAqcJu-41FtIohOo3Ndo34skl6d7owbXU4sK7fKG1hBUTrVAU4fIhyrPeAh4L0P7Ff3WzbF7imiJozcGFSEbBirCbUY3yciAusM1OZq6aWcSt-xR5AgNjaAXFZEE5BWnAp1S9RicXlFG7J5KymrgEAhY/w640-h360/Blogger_TA_VHF_UHF_Contest_Nedir%20(1).png"
+    },
+    {
+      "title": "Mors Alfabesi",
+      "link": "https://blog.purgatoria.tr/2025/06/mors-alfabesi.html",
+      "pubDate": "Sun, 22 Jun 2025 12:47:00 +0000",
+      "summary": "Bu yazımızda sevgili dostlarımız, sizlerle Mors Alfabesi tablomuzu paylaşıyoruz. Amatör Telsizcilik sınavına veya CW öğrenmeye çalışırken bu tablodan yararlanabileceğinizi umuyoruz. Mors alfabesi, har…",
+      "author": "noreply@blogger.com (Kayra TA2SLC)",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYtwoHg7GNiBe99onFluDYW1yawOefAumiF3mchYoa3Sx_Kzvz9qE2I749yc-gwUbKoby6ZWR6adGu_n-bdutI_gxDvC41JJ-_BoQakEjfcgFQLcp2u3FxVendkyGxFkFUS1BWYi4s6_9T-xGAljKYAKjzuUUIFqmaVvPao_7r8Q46VCOWpY6jss23jUs/w640-h360/Blogger_Mors_Kodu.png"
+    },
+    {
+      "title": "-dBm Tablosu",
+      "link": "https://blog.purgatoria.tr/2025/06/negatif-dbm-tablosu.html",
+      "pubDate": "Sat, 21 Jun 2025 20:59:00 +0000",
+      "summary": "Bu yazımızda -dBm kavramının ne anlama geldiğini ve \"-\" şeklinde gördüğümüz değerlerin esasında bir negatifliği nitelemediğini açıklayacağız. Bununla birlikte -dBm değerlerinin, Watt ve Volt gibi daha…",
+      "author": "noreply@blogger.com (Kayra TA2SLC)",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNkmsLaHg_YOYOO0ptp2zSlLX5b0Ri7z1GbrR6W2uNZn6Tkt4Xjxq6l1DjAFXNT21PwU-wamtdHavA3lNVJoIjiZLqGnZYJWULYajMf8z1LixeS_THIDrr63yAffMraiePJNo7pyPws1mXx-G3YgcEAF9AFGrOuvDrbI3rMTkML9JLtrxSzUuJTv1B-Fc/w640-h360/Blogger_-dBm_Tablosu%20(1).png"
+    }
+  ],
+  "updatedAt": "2026-03-25T03:26:07.641Z"
+}

@@ -1,0 +1,61 @@
+@import "tailwindcss";
+
+/* ── Design tokens ──────────────────────────────────────── */
+:root {
+  --background:       hsl(285, 30%, 6%);
+  --foreground:       hsl(300, 20%, 95%);
+  --card:             hsl(285, 25%, 9%);
+  --card-foreground:  hsl(300, 20%, 95%);
+  --primary:          hsl(302, 59%, 65%);
+  --primary-fg:       hsl(285, 30%, 6%);
+  --secondary:        hsl(285, 20%, 17%);
+  --secondary-fg:     hsl(300, 20%, 95%);
+  --muted:            hsl(285, 20%, 12%);
+  --muted-fg:         hsl(285, 10%, 55%);
+  --accent:           hsl(302, 59%, 65%);
+  --destructive:      hsl(0, 84%, 60%);
+  --border:           hsl(285, 20%, 18%);
+  --radius:           0.5rem;
+}
+
+/* ── Tailwind v4 theme mapping ──────────────────────────── */
+@theme {
+  --color-background:           hsl(285, 30%, 6%);
+  --color-foreground:           hsl(300, 20%, 95%);
+  --color-card:                 hsl(285, 25%, 9%);
+  --color-card-foreground:      hsl(300, 20%, 95%);
+  --color-primary:              hsl(302, 59%, 65%);
+  --color-primary-foreground:   hsl(285, 30%, 6%);
+  --color-secondary:            hsl(285, 20%, 17%);
+  --color-secondary-foreground: hsl(300, 20%, 95%);
+  --color-muted:                hsl(285, 20%, 12%);
+  --color-muted-foreground:     hsl(285, 10%, 55%);
+  --color-accent:               hsl(302, 59%, 65%);
+  --color-accent-foreground:    hsl(285, 30%, 6%);
+  --color-destructive:          hsl(0, 84%, 60%);
+  --color-border:               hsl(285, 20%, 18%);
+  --color-input:                hsl(285, 20%, 18%);
+  --color-ring:                 hsl(302, 59%, 65%);
+  --radius-sm:  calc(0.5rem - 4px);
+  --radius-md:  calc(0.5rem - 2px);
+  --radius-lg:  0.5rem;
+}
+
+/* ── Global base styles ─────────────────────────────────── */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: Inter, system-ui, sans-serif;
+  margin: 0;
+}
+
+*,
+::before,
+::after {
+  box-sizing: border-box;
+  border-color: var(--border);
+}
