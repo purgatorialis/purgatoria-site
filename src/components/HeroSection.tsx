@@ -37,7 +37,7 @@ export default function HeroSection() {
         >
           {/* Logo — SVG fill rengi CSS filter ile primary'e çevriliyor */}
           <img
-            src="/PurgatoriaLogo.svg"
+            src={`${import.meta.env.BASE_URL}PurgatoriaLogo.svg`}
             alt="Purgatoria Logo"
             className="h-[4.1rem] md:h-[7.3rem] w-auto"
             style={{

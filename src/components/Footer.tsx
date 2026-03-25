@@ -51,7 +51,7 @@ export default function Footer() {
           <div className="md:col-span-1">
             <div className="flex items-end gap-1.5 mb-3">
               <img
-                src="/PurgatoriaLogo.svg"
+                src={`${import.meta.env.BASE_URL}PurgatoriaLogo.svg`}
                 alt="Purgatoria Logo"
                 className="h-8 w-auto"
                 style={{

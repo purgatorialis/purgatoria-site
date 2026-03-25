@@ -71,7 +71,7 @@ export default function TAMeshSection() {
 
                 {/* TA Mesh logo */}
                 <img
-                  src="/tamesh.svg"
+                  src={`${import.meta.env.BASE_URL}tamesh.svg`}
                   alt="TA Mesh Logo"
                   className="w-48 h-auto"
                   style={{
